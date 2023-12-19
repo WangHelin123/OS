@@ -41,6 +41,19 @@
 | 2    | 局部置换CLOCK | 树形目录 | 索引分配 | 成组链接法   | 内存映射文件 | 吴迪 焦奕博 刘彬彬 姚锐 王贺麟 |
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <center><h1>Operating System Course Design Task Book</h1></center>
 
 **I. Course Design Task**  
