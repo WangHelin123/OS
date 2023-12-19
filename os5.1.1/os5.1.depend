@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1639541397 source:d:\operating system\os5.1\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
+1639559219 source:d:\operating system\os5.1.1\main.cpp
+	<bits/stdc++.h>
+	<windows.h>
+	<time.h>
+	<conio.h>
+
