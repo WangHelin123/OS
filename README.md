@@ -1,4 +1,4 @@
-《操作系统课程设计任务书》
+<center><h1>操作系统课程设计任务书</h1></center>  
 
 一、课程设计任务
 本次课程设计的任务是在Linux/Windows/iOS/Android等现有操作系统基础上，模拟实现部分操作系统的功能和相关算法，加深对操作系统运行机制的掌握和理解。本部分任务每组同学完成一份（分组见“课程设计分组”部分）。任务具体要求：
@@ -41,7 +41,8 @@
 | 2    | 局部置换CLOCK | 树形目录 | 索引分配 | 成组链接法   | 内存映射文件 | 吴迪 焦奕博 刘彬彬 姚锐 王贺麟 |  
 
 
-《Operating system course design assignment》
+<center><h1>《Operating system course design assignment》</h1></center>  
+
 
 1. Course design tasks
 The curriculum design of the task is in the Linux/Windows/iOS/Android operating system, based on the existing simulation to realize the function of the part of the operating system and related algorithms, deepen to grasp and understanding of the operation mechanism of the operating system. Each group of students will complete one task in this part (see "Course Design Group" section). Specific task requirements:
