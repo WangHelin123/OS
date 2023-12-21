@@ -79,7 +79,8 @@ For the implementation of the above functionalities, any familiar programming la
 On simulation platforms like qemu, complete basic functionalities of an operating system kernel, including: starting and initializing the system, memory management, process management, interrupt and exception mechanisms, system calls, file systems, and user command interfaces.  
 Due to time constraints, you can choose to complete 1-2 of the above functionalities. Alternatively, you can optimize functions of example operating systems like xv6.
 
+
 **III. Members**  
 | Number | Replacement Strategy | Directory Structure | External Storage Organization | Free Disk Management | Inter-process Communication | Member Names                      |  
 | ------ | -------------------- | ------------------- | ---------------------------- | -------------------- | --------------------------- | ------------------------------------ |  
-| 2      | Local Replacement CLOCK | Tree Structure Directory | Index Allocation | Group Linking Method | Memory-mapped File | Wu Di, Jiao Yibo, Liu Binbin, Yao Rui, Wang Helin |
+| 2      | Global Replacement FIFO | Tree-structured Directory | Index Allocation | Bitmap | Named Pipe | Wu Di, Jiao Yibo, Liu Binbin, Yao Rui, Wang Helin |
