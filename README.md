@@ -35,10 +35,6 @@
 在quem等模拟平台上完成操作系统内核的基本功能，包括：启动并初始化系统、内存管理、进程管理、中断及异常机制、系统调用、文件系统和用户命令接口。  
 由于时间限制，对上述功能可以选择完成1-2个。也可以针对xv6等示例操作系统进行功能优化。
 
-**三、成员**  
-| 题号 | 置换策略      | 目录结构 | 外存组织 | 空闲磁盘管理 | 进程间通信   | 成员姓名                     |  
-| ---- | ------------- | -------- | -------- | ------------- | ------------ | ------------------------------- |  
-| 2    | 全局置换FIFO | 树形目录 | 索引分配 | 位示图   | 命名管道 | 吴迪 焦奕博 刘彬彬 姚锐 王贺麟 |
 
 <br>
 <br>
@@ -80,7 +76,3 @@ On simulation platforms like qemu, complete basic functionalities of an operatin
 Due to time constraints, you can choose to complete 1-2 of the above functionalities. Alternatively, you can optimize functions of example operating systems like xv6.
 
 
-**III. Members**  
-| Number | Replacement Strategy | Directory Structure | External Storage Organization | Free Disk Management | Inter-process Communication | Member Names                      |  
-| ------ | -------------------- | ------------------- | ---------------------------- | -------------------- | --------------------------- | ------------------------------------ |  
-| 2      | Global Replacement FIFO | Tree-structured Directory | Index Allocation | Bitmap | Named Pipe | Wu Di, Jiao Yibo, Liu Binbin, Yao Rui, Wang Helin |
